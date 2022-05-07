@@ -1,0 +1,55 @@
+{
+  "editor.formatOnSaveMode": "modificationsIfAvailable",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "[rust]": {
+    "editor.defaultFormatter": "matklad.rust-analyzer",
+    "editor.fontLigatures": true
+  },
+  "workbench.iconTheme": "eq-material-theme-icons-palenight",
+  "editor.fontFamily": "\"Fira Code\", Consolas, 'Courier New', monospace",
+  "editor.fontSize": 16,
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": true,
+  "workbench.editor.enablePreview": false,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "tabnine.experimentalAutoImports": true,
+  "git.autofetch": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "svelte.enable-ts-plugin": true,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[svelte]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.colorTheme": "GitHub Dark Default",
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [80],
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": false
+  },
+  "workbench.settings.enableNaturalLanguageSearch": false,
+  "workbench.enableExperiments": false,
+  "update.mode": "manual",
+  "extensions.autoUpdate": false
+}
