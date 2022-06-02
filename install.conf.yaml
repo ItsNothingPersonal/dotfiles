@@ -10,3 +10,5 @@
     ~/.bash_profile: bash_profile
     ~/.bashrc: bashrc
     ~/.gitconfig: gitconfig
+    C:/Users/littl/AppData/Local/nvim/init.vim: ./nvim/init.vim
+    C:/Users/littl/AppData/Local/nvim/coc-settings.json: ./nvim/coc-settings.json
